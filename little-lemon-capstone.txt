@@ -1,0 +1,9 @@
+little-lemon-capstone/
+├── package.json
+├── public/
+│   └── index.html
+└── src/
+    ├── App.js
+    ├── BookingForm.js
+    ├── index.js
+    └── styles.css
